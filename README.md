@@ -2,7 +2,7 @@
 
 In this challange we would like you to design and implement a simple API to extract and deliver information from a given static data file found in the `resources` folder. The solution must be implenented in `Python` and preferably use `Flask` framework, although this one is not required.
 
-Please clone this repo (make sure its a private repo and add `yigit-bwise` as a contributer to it once you are ready to share) and send a link to `yigit@buddywise.co`. For any questions you can reach out to the same email address.
+Please downlaod the resources folder and create a new repo (make sure its private and add `yigit-bwise` as a contributer to it once you are ready to share) and send a link to `yigit@buddywise.co`. For any questions you can reach out to the same email address.
 
 
 ## 🎯 API Requirements
