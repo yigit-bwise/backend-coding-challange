@@ -2,7 +2,7 @@
 
 In this challange we would like you to design and implement a simple API to extract and deliver information from a given static data file found in the `resources` folder. The solution must be implenented in `Python` and preferably use `Flask` framework, although this one is not required.
 
-Please fork this repo and send your solution repo link to yigit@buddywise.co. For any questions you can reach out to the same email address.
+Please clone this repo (make sure its a private repo and add `yigit-bwise` as a contributer to it once you are ready to share) and send a link to `yigit@buddywise.co`. For any questions you can reach out to the same email address.
 
 
 ## 🎯 API Requirements
@@ -24,4 +24,4 @@ Fulfilling the requirements listed above for the API is enough to submit your so
 - [ ] API is hosted on an EC2 instance and can be queried publicly given the IP address of the machine
 - [ ] API is auto-scaled via AWS application load balancer and can create new instances to match the demand when there is high volumes of traffic coming in. (It is up to you how to configure the scale conditions, anything that is working would get a pass on this part. Please briefly describe the configuration and articulate why you chose to do so.)
 
-📝 Please include a `solution.txt` file in the main directory, add just a few of senteces around the choices you made and anyhting else you think is worth highlighting on your solution. Try to keep this document short.
+📝 Please include a `solution.txt` file in the main directory, add just a few of senteces around the choices you made and anything else you think is worth highlighting on your solution. Try to keep this document short.
